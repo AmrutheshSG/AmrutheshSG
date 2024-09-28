@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"> 
-  I am a 3rd-year ISE student skilled in <strong>Web Development</strong>, <strong>Data Structures</strong>, <strong>OOP</strong>, <strong>Operating Systems</strong>, <strong>MySQL</strong>, and <strong>Computer Networks</strong>. 
+  I am a 4th-year ISE student skilled in <strong>Web Development</strong>, <strong>Data Structures</strong>, <strong>OOP</strong>, <strong>Operating Systems</strong>, <strong>MySQL</strong>, and <strong>Computer Networks</strong>. 
   My goal is to leverage my technical skills and enthusiasm to create innovative solutions to real-world problems.
   I’m always on the lookout for opportunities to collaborate with like-minded individuals and contribute to the tech community.
 </p>
@@ -57,5 +57,5 @@
 
 <h3 align="left">🔥 GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrutheshsharoff&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmrutheshSG&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
